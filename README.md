@@ -4,6 +4,7 @@ About App:
 1. User friendly UI.
 2. Updated news.
 3. Dynamic App
+4. Search News.
 
 # UI
 
