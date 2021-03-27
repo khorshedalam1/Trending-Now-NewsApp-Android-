@@ -4,3 +4,6 @@ About App:
 1. User friendly UI.
 2. Updated news.
 3. Dynamic App
+
+# Source code price: 20USD (you can download demo apk file (app-debug.apk file)
+Email: 183000112@eastdelta.edu.bd
